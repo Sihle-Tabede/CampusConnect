@@ -1,5 +1,8 @@
+
 // API Base URL
-const API_BASE = 'http://localhost:3000/api';
+const API_BASE = 'https://campusconnect-backend-yw1f.onrender.com/';
+
+
 
 // Utility functions
 function showMessage(message, type = 'error') {
